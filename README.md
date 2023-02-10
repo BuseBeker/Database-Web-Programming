@@ -1,5 +1,5 @@
 # Database-Web Programming
- Web programming using Asp.net, C#, MSSQL and Bootstrap
+ Web programming using ASP.NET, C# and MSSQL
 
 Instructions
 
